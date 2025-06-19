@@ -31,7 +31,7 @@
 - :technologist: Adoro desenvolver software de todas as formas.
 - :nerd_face:  Sempre aprendendo coisas novas.
 - :thinking: Estou procurando minha primeira experiência de trabalho. `job opportunity`.
-- Pode entrar em contato comigo diretamente em [LinkedIn](https://www.linkedin.com/in/christian-goncalves-362679305/) 🏆.
+- ⚙️ Pode entrar em contato comigo diretamente em [LinkedIn](https://www.linkedin.com/in/christian-goncalves-362679305/) 🏆.
 <br>
 
 
