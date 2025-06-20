@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá 👋, Eu sou Christian Goncalves</h1></summary>
+    <summary><h1 style="display: inline-block">Hi! 👋, I'm Christian Goncalves</h1></summary>
   </ul>
 </div>
 
@@ -13,7 +13,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Desenvolvedor de Software</h2></summary>
+    <summary><h2 style="display: inline-block">Mobile Developer</h2></summary>
   </ul>
 </div>
 
@@ -27,7 +27,7 @@
 <br>
 
 
-- 🌱 Atualmente, estou estudando para me tornar um especialista em `Full Stack/BackEnd Developer/FrontEnd Developer`
+- 🌱 Atualmente, estou estudando para me tornar um especialista em `Mobile Developer`
 - :technologist: Adoro desenvolver software de todas as formas.
 - :nerd_face:  Sempre aprendendo coisas novas.
 - :thinking: Estou procurando minha primeira experiência de trabalho. `job opportunity`.
@@ -35,14 +35,12 @@
 <br>
 
 
-
-
   ## 🛠️ My Skills
 
 ### Linguagens de programação:
 &emsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend:
 &emsp;
@@ -54,18 +52,15 @@
 ### Backend:
 &emsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### Ferramentas:
+### Developer Tools:
 &emsp;
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### Banco de dados:
+### Databases:
 &emsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
